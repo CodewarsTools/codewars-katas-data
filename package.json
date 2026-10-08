@@ -1,0 +1,23 @@
+{
+  "name": "@codewarstools/codewars-katas-data",
+  "version": "1.0.0",
+  "description": "JSON data for Codewars kata",
+  "files": [
+    "katas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodewarsTools/codewars-katas-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodewarsTools/codewars-katas-data/issues"
+  },
+  "homepage": "https://github.com/CodewarsTools/codewars-katas-data",
+  "keywords": [
+    "codewars",
+    "kata",
+    "katas",
+    "json",
+    "data"
+  ]
+}
